@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">viewpager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="red1">A</string>
+    <string name="red2">B</string>
+    <string name="red3">C</string>
+    <string name="red4">D</string>
+    <string name="red5">E</string>
+    <string name="red6">F</string>
+    <string name="blue1">G</string>
+    <string name="blue2">H</string>
+    <string name="blue3">I</string>
+    <string name="blue4">J</string>
+    <string name="blue5">K</string>
+    <string name="blue6">L</string>
+    <string name="teal1">M</string>
+    <string name="teal2">N</string>
+    <string name="teal3">O</string>
+    <string name="teal4">P</string>
+    <string name="teal5">Q</string>
+    <string name="teal6">R</string>
+    <string name="black">S</string>
+    <string name="white">T</string>
+    <string name="apple">apple</string>
+    <string name="mango">mango</string>
+</resources>
